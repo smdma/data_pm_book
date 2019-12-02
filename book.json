@@ -1,0 +1,21 @@
+{
+	"plugins": [
+		"chapter-fold",
+		"expandable-chapters-small",
+		"page-treeview",
+		"splitter",
+		"accordion",
+		"sectionx",
+		"back-to-top-button"
+	],
+	"pluginsConfig": {
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+        "sectionx": {
+          "tag": "b"
+        }
+    }
+}
